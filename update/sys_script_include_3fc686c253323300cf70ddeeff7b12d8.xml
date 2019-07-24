@@ -9,6 +9,7 @@
         <script><![CDATA[var linktosc = Class.create();
 linktosc.prototype = {
     initialize: function() {
+		gs.addErrorMessage("hello")
     },
 
     type: 'linktosc'
@@ -17,13 +18,13 @@ linktosc.prototype = {
         <sys_created_by>anjana</sys_created_by>
         <sys_created_on>2019-07-23 22:36:54</sys_created_on>
         <sys_id>3fc686c253323300cf70ddeeff7b12d8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>linktosc</sys_name>
         <sys_package display_value="linktosc" source="sn_linktosc">5525e44653723300cf70ddeeff7b12d2</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="linktosc">5525e44653723300cf70ddeeff7b12d2</sys_scope>
         <sys_update_name>sys_script_include_3fc686c253323300cf70ddeeff7b12d8</sys_update_name>
-        <sys_updated_by>anjana</sys_updated_by>
-        <sys_updated_on>2019-07-23 22:36:54</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-24 01:02:15</sys_updated_on>
     </sys_script_include>
 </record_update>
